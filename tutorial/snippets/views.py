@@ -16,6 +16,7 @@ from snippets.serializers import SnippetSerializer, UserSerializer
 
 # Class Based Views
 
+# Added this comment from Office Mac
 class SnippetList(APIView):
     """
     List all snippets, or create a new snippet.
